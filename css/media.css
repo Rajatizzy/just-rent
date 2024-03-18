@@ -1,0 +1,374 @@
+@media only screen and (max-width: 992.78px){
+
+
+    .navbar-toggler{
+        font-size: 1.15em;
+    }
+
+    /* .navbar-toggler:focus{
+        border-color: transparent !important;
+        box-sizing: none !important;
+    } */
+
+
+    .top-head-icon {
+        text-align: center;
+    }
+
+
+    #input-form{
+        margin-bottom: 20px;
+    }
+
+    .mid-sec{
+        height: 50vh;
+    }
+    .cont{
+        height: 50vh; 
+    }
+
+    .logo1 img{
+        width: 140px;
+    }
+
+
+
+
+
+    footer{
+        height: auto;
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .logo img {
+        width: 94px;
+        height: auto;
+    }
+    .head {
+        height: 75px;
+    }
+    .foot h5{
+        /* margin-top: 15px; */
+        font-size: 16px;
+    }
+    .foot-icon h5{
+        font-size: 14px; 
+    }
+
+    .footer-bottom{
+        height: auto;
+        
+    }
+    .footer-bottom p{
+        font-size: 13px;
+    }
+
+
+
+    /* contact */
+
+    .title.bg{
+        padding-top: 30px;
+    }
+    .tile{
+        font-size: 30px;
+    }
+
+
+    /* about */
+    .stat-number{
+        font-size: 45px;
+    }
+    .stat-title{
+        font-size: 16px;
+        text-align: center;
+    }
+    .stat-item {
+        margin-right: 8px;
+        margin-left: 8px;
+    }
+
+        /* product */
+
+        /* .add-btn{
+           width: 100px;
+        } */
+        .pro-sec {
+            padding-top: 20px;
+        }
+        .owl-carousel .owl-nav button.owl-next{
+            top: -14%;
+            right: -8px;
+        }
+        .owl-carousel .owl-nav button.owl-prev{
+            top: -14%;
+            left: 25px;
+        }
+        .qty-container{
+            justify-content: start;
+        }
+
+        /* log */
+        .social-text{
+            padding: 0.1rem 0;
+        }
+        #button{
+            bottom: 86px;
+        }
+        #fl-ne{
+            flex-flow: column-reverse;
+        }
+        .card-career{
+            top: 60%;
+        }
+   
+}
+
+@media only screen and (max-width: 767.78px){
+    .mid1{
+        margin-top: 10px;
+    }
+    a.para-a{
+        font-size: 13px;
+    }
+
+
+    .foot h5{
+        margin-top: 15px;
+    }
+    .footer-bottom{
+        height: auto;
+    }
+    .footer-bottom p{
+        font-size: 13px;
+    }
+    .accordion-button{
+        font-size: 15px !important;
+    }
+    .img-selection{
+        width: 58px;
+    }
+    .wrapper1{
+        padding-left: 73px;
+        height: auto;
+    }
+    .big-img{
+        height: auto;
+    }
+    .logo1 img{
+        display: block;
+        margin: auto;
+    }
+    .ind-sec .form-select{
+        font-size: 12px;
+    }
+    .column{
+        width: 100% !important;
+    }
+    .icnu {
+        text-align: center;
+    }
+    .foot-icon h5{
+        text-align: center;
+    }
+
+    div#btnContainer {
+        display: none;
+    }
+
+
+    /* terms */
+    .sm-title{
+        left: 48%;
+    }
+    .title{
+        font-size: 20px;
+    }
+
+
+
+    /* contact */
+
+    .title.bg{
+        padding-top: 20px;
+        font-size: 30px;
+    }
+    .title-nw-one{
+        font-size: 18px;
+    }
+    .mg-img img{
+        margin-bottom: 10px;
+    }
+
+    /* about */
+    .tile{
+        font-size: 30px;
+    }
+
+    .stat-row{
+        padding-top: 35px;
+        padding-bottom: 35px;
+    }
+
+    .stat-number{
+        font-size: 20px;
+        line-height: 50px;
+        margin-bottom: 10px;
+    }
+    .stat-item i{
+        font-size: 28px;
+    }
+    .stat-title{
+        font-size: 12px;
+        text-align: center;
+    }
+    .stat-item {
+        margin-right: 8px;
+        margin-left: 8px;
+    }
+
+    /* product */
+
+    .add-btn{
+        /* display: block;
+        margin: auto; */
+        margin-top: 20px !important;
+    }
+    .pro-sec {
+        padding-top: 20px;
+    }
+    .owl-carousel .owl-nav button.owl-next{
+        top: -14%;
+        right: -8px;
+    }
+    .owl-carousel .owl-nav button.owl-prev{
+        top: -14%;
+        left: 25px;
+    }
+    .pro .form-select{
+        width: 100%;
+    }
+    .card{
+        padding: 0px;
+    }
+
+    /* check */
+
+    .app-btn{
+        margin-top: 20px;
+        display: unset;
+    }
+    .price-amount{
+        font-size: 16px;
+        padding-top: 0px;
+    }
+    .price-amount.new{
+        font-size: 16px;
+    }
+    h6.price-amount.new.one {
+        font-size: 20px;
+      }
+
+      .title-nw-one-nw{
+        font-size: 16px;
+      }
+
+
+      /* thankyou */
+
+      .go-home{
+        margin: 10px 0;
+      }
+      .thank-sec{
+        font-size: 20px;
+      }
+      .wrapper-2 h1{
+        font-size: 1.8em;
+      }
+      .wrapper-2{
+        padding: 13px;
+      }
+
+      /* view cart */.logo1 img
+
+      .btn-success{
+        margin-top: 20px;
+      }
+      .pri-ec{
+        font-size: 14px;
+      }
+      .btn-success{
+        margin-top: 20px;
+      }
+
+      /* login */
+
+      .lost-pass a{
+        font-size: 15px;
+      }
+      .card2{
+        padding:0px ;
+      }
+      
+}
+@media only screen and (max-width: 320px){
+    .img-selection {
+        width: 48px;
+    }
+    .wrapper1 {
+        padding-left: 57px;
+        height: auto;
+    }
+    .para{
+        font-size: 14px;
+    }
+}
+
+@media only screen and (max-width: 991.78px) and (min-width:768px){
+
+    .img-selection{
+        width: 87px;
+       
+    }
+    .wrapper1{
+        height: auto;
+        padding-left: 97px;
+    }
+
+
+}
+
+@media only screen and (max-width: 870px) and (min-width:768px){
+
+
+    .row.nw {
+        width: 65%;
+    }
+}
+@media only screen and (max-width: 992px) and (min-width:871px){
+
+
+    .row.nw {
+        width: 100%;
+    }
+}
+
+
+@media only screen and (max-width: 1200px) and (min-width:993px)  {
+
+    .owl-carousel .owl-nav button.owl-next{
+        top: -14%;
+        right: -8px;
+    }
+    .owl-carousel .owl-nav button.owl-prev{
+        top: -14%;
+        left: 25px;
+    }
+    .modal-lg, .modal-xl {
+        max-width: 880px !important;
+    }
+    .row.nw {
+        width: 100%;
+    }
+
+}
